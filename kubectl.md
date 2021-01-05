@@ -1,0 +1,5 @@
+# kubectl
+
+## get cluster info
+
+`kubectl cluster-info`
